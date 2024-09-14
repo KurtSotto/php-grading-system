@@ -1,0 +1,31 @@
+/* :root{
+    --blue: rgb(24, 49, 83);
+}
+
+nav a{
+    position: relative;
+}
+
+nav img{
+    position: absolute;
+    top: -17px;
+}
+
+aside{
+    position: fixed;
+    padding: 1em auto;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+aside div{
+    transition: background-color .20s;
+}
+
+aside div:hover{
+    background-color: rgb(93, 93, 250);
+    cursor: pointer;
+}
+ */

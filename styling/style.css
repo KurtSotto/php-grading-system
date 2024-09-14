@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --blue: rgba(3, 55, 175, .5);
+    --orange: rgba(235, 89, 14, .5);
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(to bottom, var(--blue), var(--orange)),  
+    url(./cover.jpg) no-repeat center center / cover;
+}
+
+
+/* rgb(235, 89, 14); orange */
+/* rgb(3, 55, 175); blue */
